@@ -1,1 +1,1 @@
-Contador de passos com com HTML + JAVASCRIPT + CSS e também o uso de emojis.
+Contador de passos usando HTML + JAVASCRIPT + CSS com o uso de emojis.
